@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-countdown/static/css/main.f22f35ec.chunk.css",
+    "main.js": "/react-countdown/static/js/main.91db3d10.chunk.js",
+    "main.js.map": "/react-countdown/static/js/main.91db3d10.chunk.js.map",
+    "runtime~main.js": "/react-countdown/static/js/runtime~main.19a56f60.js",
+    "runtime~main.js.map": "/react-countdown/static/js/runtime~main.19a56f60.js.map",
+    "static/js/2.bbcd3f81.chunk.js": "/react-countdown/static/js/2.bbcd3f81.chunk.js",
+    "static/js/2.bbcd3f81.chunk.js.map": "/react-countdown/static/js/2.bbcd3f81.chunk.js.map",
+    "index.html": "/react-countdown/index.html",
+    "precache-manifest.26369db438402ed0475ac5252ce657c5.js": "/react-countdown/precache-manifest.26369db438402ed0475ac5252ce657c5.js",
+    "service-worker.js": "/react-countdown/service-worker.js",
+    "static/css/main.f22f35ec.chunk.css.map": "/react-countdown/static/css/main.f22f35ec.chunk.css.map",
+    "static/media/ICC-Cricket-World-Cup-2019-Logo-PNG.png": "/react-countdown/static/media/ICC-Cricket-World-Cup-2019-Logo-PNG.0a126f01.png",
+    "static/media/flag-india.png": "/react-countdown/static/media/flag-india.d6c62e96.png",
+    "static/media/flag-pak.png": "/react-countdown/static/media/flag-pak.c865925d.png"
+  }
+}
